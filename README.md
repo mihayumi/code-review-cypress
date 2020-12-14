@@ -1,5 +1,4 @@
 # code-review-cypress
-# code-review-cypress
 Além da revisão de código padrão:
 * Verificar se comandos de debbuging foram retirados do código.
 * Verificar se os comandos .only e .skip foram retirados.
